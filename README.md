@@ -1,6 +1,13 @@
 # BDX
 Head Animation Code for static BDX
 
+## Libraries (other version may work, but these worked for me)
+TFT_espi V2.5.0  
+ESP32 ISR Servo 1.5.0  
+DFRobotDFPlayerMini 1.0.5  
+Adafruit NeoPixel 1.15.1  
+
+
 ## This code was designed to animate the head of BDX
 
 3 Head Servos (L/R, Up/Dn, Tilt)  
